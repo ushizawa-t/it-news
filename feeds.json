@@ -1,0 +1,87 @@
+[
+  {
+    "name": "web.dev",
+    "url": "https://web.dev/static/blog/feed.xml",
+    "category": "Web開発"
+  },
+  {
+    "name": "Josh W Comeau",
+    "url": "https://www.joshwcomeau.com/rss.xml",
+    "category": "Web開発"
+  },
+  {
+    "name": "Overreacted (Dan Abramov)",
+    "url": "https://overreacted.io/rss.xml",
+    "category": "Web開発"
+  },
+  {
+    "name": "CSS-Tricks",
+    "url": "https://css-tricks.com/feed/",
+    "category": "Web開発"
+  },
+  {
+    "name": "Smashing Magazine",
+    "url": "https://www.smashingmagazine.com/feed/",
+    "category": "Web開発"
+  },
+  {
+    "name": "Stripe Engineering",
+    "url": "https://stripe.com/blog/feed.rss",
+    "category": "Web開発"
+  },
+  {
+    "name": "Dan Luu",
+    "url": "https://danluu.com/atom.xml",
+    "category": "システムプログラミング"
+  },
+  {
+    "name": "Brendan Gregg",
+    "url": "https://www.brendangregg.com/blog/rss.xml",
+    "category": "システムプログラミング"
+  },
+  {
+    "name": "Julia Evans",
+    "url": "https://jvns.ca/atom.xml",
+    "category": "システムプログラミング"
+  },
+  {
+    "name": "fasterthanlime",
+    "url": "https://fasterthanli.me/index.xml",
+    "category": "システムプログラミング"
+  },
+  {
+    "name": "tonsky.me",
+    "url": "https://tonsky.me/atom.xml",
+    "category": "システムプログラミング"
+  },
+  {
+    "name": "LWN.net",
+    "url": "https://lwn.net/headlines/rss",
+    "category": "システムプログラミング"
+  },
+  {
+    "name": "High Scalability",
+    "url": "http://feeds.feedburner.com/HighScalability",
+    "category": "アーキテクチャ"
+  },
+  {
+    "name": "ACM Queue",
+    "url": "https://queue.acm.org/rss/feeds/queuecontent.xml",
+    "category": "アーキテクチャ"
+  },
+  {
+    "name": "Pragmatic Engineer",
+    "url": "https://newsletter.pragmaticengineer.com/feed",
+    "category": "アーキテクチャ"
+  },
+  {
+    "name": "Hacker News (100pt+)",
+    "url": "https://hnrss.org/frontpage?points=100",
+    "category": "アグリゲーター"
+  },
+  {
+    "name": "Lobsters",
+    "url": "https://lobste.rs/rss",
+    "category": "アグリゲーター"
+  }
+]
