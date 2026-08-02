@@ -1,9 +1,6 @@
 name: Tech blog Slack notifier
 
 on:
-  schedule:
-    # 毎日 09:00 JST (00:00 UTC)
-    - cron: "0 0 * * *"
   workflow_dispatch: {}
 
 permissions:

@@ -7,7 +7,7 @@ Web開発・システムプログラミング系のテックブログを毎日�
 - [feeds.json](feeds.json) に登録したRSS/Atomフィードを巡回
 - 通知済み記事のIDを [state.json](state.json) に記録し、重複通知を防止
 - 新着があればSlack Incoming Webhookでカテゴリ別にまとめて通知
-- GitHub Actionsで毎日 09:00 JST に自動実行
+- GitHub Actionsの手動実行(workflow_dispatch)で任意のタイミングでチェック
 
 各フィードの初回チェック時は既存記事を既読として登録するだけで通知しません(過去記事の一斉通知を防ぐため)。3日より古い記事も通知対象外です。
 
@@ -25,7 +25,7 @@ Web開発・システムプログラミング系のテックブログを毎日�
 2. リポジトリの Settings → Secrets and variables → Actions で
    `SLACK_WEBHOOK_URL` という名前のSecretにWebhook URLを登録
 
-以降、毎日 09:00 JST に自動実行されます。Actionsタブの「Tech blog Slack notifier」から手動実行(Run workflow)も可能です。
+実行はActionsタブの「Tech blog Slack notifier」から手動(Run workflow)で行います。
 
 ## ローカルでの実行
 
@@ -60,4 +60,5 @@ python check_feeds.py
 
 - `MAX_ITEMS_PER_FEED` — 1フィードあたりの1回の最大通知数(既定: 10)
 - `MAX_AGE_DAYS` — これより古い記事は通知しない(既定: 3日)
-- 実行時刻は [.github/workflows/notify.yml](.github/workflows/notify.yml) のcron(UTC)で変更
+
+定期実行に戻したい場合は [.github/workflows/notify.yml](.github/workflows/notify.yml) の `on:` に `schedule:` (cron、UTC表記)を追加してください。
