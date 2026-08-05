@@ -466,7 +466,13 @@
     "https://lwn.net/Articles/1086488/",
     "https://lwn.net/Articles/1087108/",
     "https://lwn.net/Articles/1086330/",
-    "https://lwn.net/Articles/1087068/"
+    "https://lwn.net/Articles/1087068/",
+    "https://lwn.net/Articles/1087388/",
+    "https://lwn.net/Articles/1085896/",
+    "https://lwn.net/Articles/1086336/",
+    "https://lwn.net/Articles/1087326/",
+    "https://lwn.net/Articles/1087318/",
+    "https://lwn.net/Articles/1087162/"
   ],
   "http://feeds.feedburner.com/HighScalability": [
     "426227:4867632:36448569",
@@ -601,7 +607,20 @@
     "https://news.ycombinator.com/item?id=49166874",
     "https://news.ycombinator.com/item?id=49166386",
     "https://news.ycombinator.com/item?id=49164896",
-    "https://news.ycombinator.com/item?id=49162653"
+    "https://news.ycombinator.com/item?id=49162653",
+    "https://news.ycombinator.com/item?id=49188022",
+    "https://news.ycombinator.com/item?id=49187977",
+    "https://news.ycombinator.com/item?id=49187575",
+    "https://news.ycombinator.com/item?id=49187256",
+    "https://news.ycombinator.com/item?id=49186762",
+    "https://news.ycombinator.com/item?id=49185983",
+    "https://news.ycombinator.com/item?id=49185430",
+    "https://news.ycombinator.com/item?id=49184960",
+    "https://news.ycombinator.com/item?id=49184755",
+    "https://news.ycombinator.com/item?id=49184216",
+    "https://news.ycombinator.com/item?id=49183115",
+    "https://news.ycombinator.com/item?id=49182996",
+    "https://news.ycombinator.com/item?id=49146183"
   ],
   "https://lobste.rs/rss": [
     "https://lobste.rs/s/pzl6f0",
@@ -728,6 +747,24 @@
     "https://lobste.rs/s/yw1w8q",
     "https://lobste.rs/s/v5ke0d",
     "https://lobste.rs/s/12aef8",
-    "https://lobste.rs/s/illv4o"
+    "https://lobste.rs/s/illv4o",
+    "https://lobste.rs/s/czvkjy",
+    "https://lobste.rs/s/fgcrj0",
+    "https://lobste.rs/s/31hk9y",
+    "https://lobste.rs/s/wnyesi",
+    "https://lobste.rs/s/wkujx7",
+    "https://lobste.rs/s/lzupt0",
+    "https://lobste.rs/s/qamm7j",
+    "https://lobste.rs/s/0j5jx5",
+    "https://lobste.rs/s/gk08tu",
+    "https://lobste.rs/s/izdtd6",
+    "https://lobste.rs/s/mgr9lc",
+    "https://lobste.rs/s/zlipdn",
+    "https://lobste.rs/s/uq28a0",
+    "https://lobste.rs/s/wblbfk",
+    "https://lobste.rs/s/awdorz",
+    "https://lobste.rs/s/1eie3y",
+    "https://lobste.rs/s/6ohotl",
+    "https://lobste.rs/s/tmpokv"
   ]
 }
