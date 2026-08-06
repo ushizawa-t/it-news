@@ -178,7 +178,8 @@
     "https://css-tricks.com/?p=395776",
     "https://css-tricks.com/?p=395752",
     "https://css-tricks.com/?p=396295",
-    "https://css-tricks.com/?p=396204"
+    "https://css-tricks.com/?p=396204",
+    "https://css-tricks.com/?p=396471"
   ],
   "https://www.smashingmagazine.com/feed/": [
     "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
@@ -472,7 +473,12 @@
     "https://lwn.net/Articles/1086336/",
     "https://lwn.net/Articles/1087326/",
     "https://lwn.net/Articles/1087318/",
-    "https://lwn.net/Articles/1087162/"
+    "https://lwn.net/Articles/1087162/",
+    "https://lwn.net/Articles/1087567/",
+    "https://lwn.net/Articles/1086947/",
+    "https://lwn.net/Articles/1087490/",
+    "https://lwn.net/Articles/1087489/",
+    "https://lwn.net/Articles/1086134/"
   ],
   "http://feeds.feedburner.com/HighScalability": [
     "426227:4867632:36448569",
@@ -620,7 +626,20 @@
     "https://news.ycombinator.com/item?id=49184216",
     "https://news.ycombinator.com/item?id=49183115",
     "https://news.ycombinator.com/item?id=49182996",
-    "https://news.ycombinator.com/item?id=49146183"
+    "https://news.ycombinator.com/item?id=49146183",
+    "https://news.ycombinator.com/item?id=49201970",
+    "https://news.ycombinator.com/item?id=49201930",
+    "https://news.ycombinator.com/item?id=49200652",
+    "https://news.ycombinator.com/item?id=49200390",
+    "https://news.ycombinator.com/item?id=49199357",
+    "https://news.ycombinator.com/item?id=49199346",
+    "https://news.ycombinator.com/item?id=49198464",
+    "https://news.ycombinator.com/item?id=49198302",
+    "https://news.ycombinator.com/item?id=49198069",
+    "https://news.ycombinator.com/item?id=49195468",
+    "https://news.ycombinator.com/item?id=49195231",
+    "https://news.ycombinator.com/item?id=49192566",
+    "https://news.ycombinator.com/item?id=49168622"
   ],
   "https://lobste.rs/rss": [
     "https://lobste.rs/s/pzl6f0",
@@ -765,6 +784,25 @@
     "https://lobste.rs/s/awdorz",
     "https://lobste.rs/s/1eie3y",
     "https://lobste.rs/s/6ohotl",
-    "https://lobste.rs/s/tmpokv"
+    "https://lobste.rs/s/tmpokv",
+    "https://lobste.rs/s/97laur",
+    "https://lobste.rs/s/xx83dr",
+    "https://lobste.rs/s/0cdps4",
+    "https://lobste.rs/s/aegq82",
+    "https://lobste.rs/s/mxdfdv",
+    "https://lobste.rs/s/titphm",
+    "https://lobste.rs/s/4qfkrz",
+    "https://lobste.rs/s/o8ttys",
+    "https://lobste.rs/s/bmnusu",
+    "https://lobste.rs/s/j8ytwa",
+    "https://lobste.rs/s/2hatf3",
+    "https://lobste.rs/s/l9jtnl",
+    "https://lobste.rs/s/vfnwot",
+    "https://lobste.rs/s/8bxp8n",
+    "https://lobste.rs/s/psnmvz",
+    "https://lobste.rs/s/hd7qxs",
+    "https://lobste.rs/s/8cxvb2",
+    "https://lobste.rs/s/uwaoor",
+    "https://lobste.rs/s/9ofzvx"
   ]
 }
