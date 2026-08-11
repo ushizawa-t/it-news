@@ -179,7 +179,10 @@
     "https://css-tricks.com/?p=395752",
     "https://css-tricks.com/?p=396295",
     "https://css-tricks.com/?p=396204",
-    "https://css-tricks.com/?p=396471"
+    "https://css-tricks.com/?p=396471",
+    "https://css-tricks.com/?p=394978",
+    "https://css-tricks.com/?p=396506",
+    "https://css-tricks.com/?p=394753"
   ],
   "https://www.smashingmagazine.com/feed/": [
     "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
@@ -222,7 +225,9 @@
     "https://smashingmagazine.com/2026/03/anime-marvel-dc-designing-digital-products-emotion-flow/",
     "https://smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/",
     "https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/",
-    "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/"
+    "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/",
+    "https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/",
+    "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/"
   ],
   "https://stripe.com/blog/feed.rss": [
     "https://stripe.com/blog/analyzing-the-evidence-that-helps-businesses-win-product-not-received-disputes",
@@ -478,7 +483,20 @@
     "https://lwn.net/Articles/1086947/",
     "https://lwn.net/Articles/1087490/",
     "https://lwn.net/Articles/1087489/",
-    "https://lwn.net/Articles/1086134/"
+    "https://lwn.net/Articles/1086134/",
+    "https://lwn.net/Articles/1087590/",
+    "https://lwn.net/Articles/1088238/",
+    "https://lwn.net/Articles/1088226/",
+    "https://lwn.net/Articles/1087069/",
+    "https://lwn.net/Articles/1088059/",
+    "https://lwn.net/Articles/1088057/",
+    "https://lwn.net/Articles/1087961/",
+    "https://lwn.net/Articles/1087949/",
+    "https://lwn.net/Articles/1086949/",
+    "https://lwn.net/Articles/1087812/",
+    "https://lwn.net/Articles/1087759/",
+    "https://lwn.net/Articles/1087743/",
+    "https://lwn.net/Articles/1087742/"
   ],
   "http://feeds.feedburner.com/HighScalability": [
     "426227:4867632:36448569",
@@ -508,7 +526,9 @@
     "3806227",
     "3806210",
     "3806209",
-    "3831359"
+    "3831359",
+    "3834784",
+    "3819081"
   ],
   "https://newsletter.pragmaticengineer.com/feed": [
     "https://newsletter.pragmaticengineer.com/p/formal-methods-with-hillel-wayne",
@@ -530,7 +550,8 @@
     "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
     "https://newsletter.pragmaticengineer.com/p/did-anthropics-new-model-just-boost",
     "https://newsletter.pragmaticengineer.com/p/the-job-market-in-2026-part-2",
-    "https://newsletter.pragmaticengineer.com/p/kubernetes-and-retiring-at-the-top"
+    "https://newsletter.pragmaticengineer.com/p/kubernetes-and-retiring-at-the-top",
+    "https://newsletter.pragmaticengineer.com/p/optiver"
   ],
   "https://hnrss.org/frontpage?points=100": [
     "https://news.ycombinator.com/item?id=49114639",
@@ -639,7 +660,22 @@
     "https://news.ycombinator.com/item?id=49195468",
     "https://news.ycombinator.com/item?id=49195231",
     "https://news.ycombinator.com/item?id=49192566",
-    "https://news.ycombinator.com/item?id=49168622"
+    "https://news.ycombinator.com/item?id=49168622",
+    "https://news.ycombinator.com/item?id=49263497",
+    "https://news.ycombinator.com/item?id=49263340",
+    "https://news.ycombinator.com/item?id=49261128",
+    "https://news.ycombinator.com/item?id=49259611",
+    "https://news.ycombinator.com/item?id=49259339",
+    "https://news.ycombinator.com/item?id=49258764",
+    "https://news.ycombinator.com/item?id=49257876",
+    "https://news.ycombinator.com/item?id=49257377",
+    "https://news.ycombinator.com/item?id=49257160",
+    "https://news.ycombinator.com/item?id=49256057",
+    "https://news.ycombinator.com/item?id=49255710",
+    "https://news.ycombinator.com/item?id=49255496",
+    "https://news.ycombinator.com/item?id=49252179",
+    "https://news.ycombinator.com/item?id=49226623",
+    "https://news.ycombinator.com/item?id=49223965"
   ],
   "https://lobste.rs/rss": [
     "https://lobste.rs/s/pzl6f0",
@@ -803,6 +839,31 @@
     "https://lobste.rs/s/hd7qxs",
     "https://lobste.rs/s/8cxvb2",
     "https://lobste.rs/s/uwaoor",
-    "https://lobste.rs/s/9ofzvx"
+    "https://lobste.rs/s/9ofzvx",
+    "https://lobste.rs/s/b3uky6",
+    "https://lobste.rs/s/gyxkma",
+    "https://lobste.rs/s/unffzk",
+    "https://lobste.rs/s/pqq2gi",
+    "https://lobste.rs/s/ci7bnd",
+    "https://lobste.rs/s/gxhfny",
+    "https://lobste.rs/s/vzza5g",
+    "https://lobste.rs/s/9iliea",
+    "https://lobste.rs/s/gixxh0",
+    "https://lobste.rs/s/8k3c7u",
+    "https://lobste.rs/s/kkqqdn",
+    "https://lobste.rs/s/exgfc0",
+    "https://lobste.rs/s/aeur9s",
+    "https://lobste.rs/s/7hm8yf",
+    "https://lobste.rs/s/r8qb5p",
+    "https://lobste.rs/s/oppmip",
+    "https://lobste.rs/s/ipt1em",
+    "https://lobste.rs/s/csc385",
+    "https://lobste.rs/s/lkp7x3",
+    "https://lobste.rs/s/ulinck",
+    "https://lobste.rs/s/ja2gzr",
+    "https://lobste.rs/s/tgpjez",
+    "https://lobste.rs/s/z5v07a",
+    "https://lobste.rs/s/imdlp6",
+    "https://lobste.rs/s/4unr6j"
   ]
 }
